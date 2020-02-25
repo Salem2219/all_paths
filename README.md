@@ -1,6 +1,6 @@
 # Floyd's Algorithm
 Basic Finite State Machine with Datapath (FSMD) to compute the length of a shortest path between each pair of vertices in a simple,
-undirected, weighted graph G. All weights are nonnegative and shall not be greater than 14. The input is the adjancey matrix A ((n+1)x(n+1) of G.
+undirected, weighted graph G. All weights are nonnegative and shall not be greater than 14. The input is the adjancey matrix A ((n+1)x(n+1)) of G.
 The outoput is the matrix A whose ijth entry is the length of a shortest path from vertex i to vertex j.
 
 ## Notes :
